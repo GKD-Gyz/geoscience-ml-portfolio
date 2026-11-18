@@ -1,4 +1,4 @@
-﻿"""环境自检：运行 `python env_check.py`，全部通过说明装机完成。"""
+"""环境自检：运行 `python env_check.py`，全部通过说明装机完成。"""
 import sys
 
 mods = [

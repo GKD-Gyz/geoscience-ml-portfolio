@@ -1,4 +1,4 @@
-﻿# geoscience-ml-portfolio
+# geoscience-ml-portfolio
 
 地质与古生物数据分析 / 机器学习项目集（龚宇洲）
 
