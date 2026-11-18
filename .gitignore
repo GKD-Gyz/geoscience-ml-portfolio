@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+*.log
+.DS_Store
+*.opju
+*.opj
+runs/
+weights/
