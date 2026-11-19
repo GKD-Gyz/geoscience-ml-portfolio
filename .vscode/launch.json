@@ -2,7 +2,18 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "▶ 调试 week1_debug.py（geo 环境）",
+      "name": "▶ 调试 week1_debug.py（进入即停，最稳妥）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/L1_basics/week1_debug.py",
+      "console": "integratedTerminal",
+      "python": "C:\\Users\\91897\\miniconda3\\envs\\geo\\python.exe",
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true,
+      "stopOnEntry": true
+    },
+    {
+      "name": "▶ 调试 week1_debug.py（按断点停）",
       "type": "debugpy",
       "request": "launch",
       "program": "${workspaceFolder}/L1_basics/week1_debug.py",
