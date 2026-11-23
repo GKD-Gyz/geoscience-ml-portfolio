@@ -39,5 +39,4 @@ average = total / count
 print("样本值 :", lengths)
 print("累加和 :", total)
 print("样本数 :", count)
-print("平均值 :", round(average, 3))
-print("=== 程序结束 ===")
+print("平均值 :", round(averagprint("=== 程序结束 ===")
